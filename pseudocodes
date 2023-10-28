@@ -1,0 +1,22 @@
+DFS
+BFS
+PFS
+Topological order by DFS
+Zero in degree sorting
+kosorajus algorithm
+Hopcroft karp algorithm
+dijkstra
+bellman ford
+floyd warshall
+Prims
+Krushkall
+
+DFS for cycle detection
+BFS to calculate girth
+
+Ancestors of tree by DFS
+Bipartite by DFS/BFS
+Cycle detection by DFS
+girth calculation by BFS
+
+DFS/BFS for connected components in the graph
